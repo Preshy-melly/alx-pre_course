@@ -1,5 +1,5 @@
 #!/bin/bash
-FETCH_ HEAD
+HEAD
 echo "ALX School is so cool!"
 
 =======
